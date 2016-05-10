@@ -38,7 +38,7 @@ console.log(people.joe.last_name);
 
 
 // What is the first genre that each person listed?
-// HINT: Iterate through theo object and console.log each person's first genre choice
+// HINT: Iterate through the object and console.log each person's first genre choice
 
 
 // What is the last name of the person sitting next to joe?

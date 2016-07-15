@@ -65,3 +65,4 @@ console.log("-------");
 
 // What was the description of the last correspondence with sue?
 console.log(people.sue.correspondence[1].description);
+console.log("-------");
